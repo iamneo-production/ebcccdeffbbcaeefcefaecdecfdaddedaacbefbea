@@ -1,1 +1,1 @@
-echo "Hi"
+mkdir home
