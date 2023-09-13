@@ -1,4 +1,3 @@
-cd /home/coder
-mkdir new_folder
-touch new_file
-cd /home/coder
+echo "Hello..."
+echo  
+echo "Welcome to my world :)"
